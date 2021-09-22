@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/estiloboton.xml" value="0.22552083333333334" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/estiloedittext.xml" value="0.2046875" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/estiloet2.xml" value="0.2046875" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/estilos3spinner.xml" value="0.19166666666666668" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_back.xml" value="0.2046875" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_clear.xml" value="0.19166666666666668" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_close.xml" value="0.19166666666666668" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_delete.xml" value="0.19166666666666668" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_descripcion.xml" value="0.2518518518518518" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_hola.xml" value="0.2518518518518518" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_save.xml" value="0.2518518518518518" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/drawable/ic_search.xml" value="0.2046875" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/activity_adaptador_articulos.xml" value="0.2125" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/activity_consulta_spinner.xml" value="0.20520833333333333" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/activity_consultarecyclerview.xml" value="0.25" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/activity_detalle_articulos.xml" value="0.24719101123595505" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/activity_list_view_articulos.xml" value="0.25" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/activity_recycle_view.xml" value="0.18" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/fragment_first.xml" value="0.287962962962963" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/fragment_second.xml" value="0.209375" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/list_recyclerview.xml" value="0.2125" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/layout/ventana1.xml" value="0.36809815950920244" />
+        <entry key="..\:/LABORATORIOSQL2021/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/drawable/circulo1.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/drawable/estiloboton.xml" value="0.1" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/drawable/estiloet2.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/drawable/ic_descripcion.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/drawable/ic_hola.xml" value="0.1" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/layout/activity_consulta_spinner.xml" value="0.2" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/layout/activity_detalle_articulos.xml" value="0.33" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/layout/activity_list_view_articulos.xml" value="0.2" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/layout/circulo1.xml" value="0.2" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP14/AndroidStudioProjects/LABORATORIOSQL2021/app/src/main/res/layout/ventana1.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
